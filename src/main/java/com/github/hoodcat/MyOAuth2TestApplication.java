@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-@EnableOAuth2Sso
+//@EnableOAuth2Sso
 @SpringBootApplication
 public class MyOAuth2TestApplication {
 
